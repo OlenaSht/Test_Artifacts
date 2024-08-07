@@ -9,4 +9,3 @@ Hello from merging in KDiff
 develop branch create confl
 CherryPick1
 CherryPick2
-CherryPick3
