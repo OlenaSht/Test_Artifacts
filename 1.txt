@@ -4,4 +4,6 @@ Branch develop
 
 2 try
 
+dev2 try to resolv confl
+Hello from merging in KDiff
 develop branch create confl
