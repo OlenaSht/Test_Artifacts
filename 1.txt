@@ -8,3 +8,4 @@ dev2 try to resolv confl
 Hello from merging in KDiff
 develop branch create confl
 CherryPick1
+CherryPick2
