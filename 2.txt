@@ -1,3 +1,7 @@
 Git bash creating new brach for task44
 
+<<<<<<< HEAD
 This is change in develop branch to create conflict and resolve it
+=======
+for kdiff - changes for conflict
+>>>>>>> dev1
